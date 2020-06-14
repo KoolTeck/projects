@@ -1,9 +1,5 @@
 /* Home Styling */
 
-html{
-    height: 100%;
-}
-
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #1f1f14;
@@ -105,6 +101,13 @@ hr{
     font-weight: bold;
     padding: 0;
     border-bottom: 1px solid #ffffff;
+}
+
+.form-cont{
+   padding: 5px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
 }
 
 #footer-card div.card{
